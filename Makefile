@@ -1,5 +1,5 @@
 PKG_NAME := azure-common
-URL = https://files.pythonhosted.org/packages/71/8d/47fffc1d0c3f257e423545459fcab87917779ae10a848dbcba2eb2ebc366/azure-common-1.1.19.zip
+URL = https://files.pythonhosted.org/packages/85/25/3f3cfb6248f3ce7c52031539701db416f2eda38f1bfd95a641e7b0884680/azure-common-1.1.20.zip
 ARCHIVES = 
 
 include ../common/Makefile.common
