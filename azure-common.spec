@@ -4,7 +4,7 @@
 #
 Name     : azure-common
 Version  : 1.1.24
-Release  : 13
+Release  : 14
 URL      : https://files.pythonhosted.org/packages/f9/01/1466ec85113b59f9c0bce9d53dc3861d8671bcde49e408c4f0d1f375e13f/azure-common-1.1.24.zip
 Source0  : https://files.pythonhosted.org/packages/f9/01/1466ec85113b59f9c0bce9d53dc3861d8671bcde49e408c4f0d1f375e13f/azure-common-1.1.24.zip
 Summary  : Microsoft Azure Client Library for Python (Common)
