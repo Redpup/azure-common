@@ -15,6 +15,7 @@ Requires: azure-common-python3 = %{version}-%{release}
 Requires: azure-nspkg
 BuildRequires : azure-nspkg
 BuildRequires : buildreq-distutils3
+Provides: azure-common~
 
 %description
 This is the Microsoft Azure common code.
